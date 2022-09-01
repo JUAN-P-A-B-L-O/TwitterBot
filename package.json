@@ -1,0 +1,22 @@
+{
+  "name": "twitterbot",
+  "version": "1.0.0",
+  "description": "Bot criado programado em NodeJs para o Twitter",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JUAN-P-A-B-L-O/TwitterBot.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JUAN-P-A-B-L-O/TwitterBot/issues"
+  },
+  "homepage": "https://github.com/JUAN-P-A-B-L-O/TwitterBot#readme",
+  "dependencies": {
+    "twit": "^2.2.11"
+  }
+}
