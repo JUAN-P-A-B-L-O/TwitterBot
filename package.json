@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/JUAN-P-A-B-L-O/TwitterBot#readme",
   "dependencies": {
+    "dotenv": "^16.0.2",
     "twit": "^2.2.11"
   }
 }
